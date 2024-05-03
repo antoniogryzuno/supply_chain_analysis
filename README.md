@@ -53,6 +53,8 @@ Link: https://www.kaggle.com/datasets/dadsrichboyvlogs/supply-chain-management-a
 The presentation with research can be found in Tableau via this link: 
 https://public.tableau.com/app/profile/anton.grz/viz/6_7ASIASUPPLYCHAINANDMARKETINGPROJECT/ASIASUPPLYCHAINPROJECT
 
+The presentation does not contain every step we took in part of the analysis. Only relevant final results.
+
 ## PROJECT FOLDER STRUCTURE 
 
 01 DATA 
