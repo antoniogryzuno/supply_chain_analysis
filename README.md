@@ -1,7 +1,7 @@
 # ASIA SUPPLY CHAIN AND MARKETING PROJECT 
 
 ## INTRODUCTION 
-Our team of Supply Chain Analysts has been assigned the crucial task of scrutinizing the sales and logistics operations of an Asian retailer, which faced a decline in sales from 2016 to 2018. With the objective of enhancing future marketing campaigns, reducing logistics costs, and bolstering sales figures, we have chosen to analyze the period from 2015 to 2018.
+Our team of Supply Chain Analysts has been assigned the crucial task of scrutinizing the sales and logistics operations of an Asian retailer, which faced a decline in sales from 2016 to 2018. With the objective of enhancing future marketing campaigns, reducing logistics costs, and bolstering sales figures, I have chosen to analyze the period from 2015 to 2018.
 
 ## ANALYSIS POINTS 
 
@@ -53,7 +53,7 @@ Link: https://www.kaggle.com/datasets/dadsrichboyvlogs/supply-chain-management-a
 The presentation with research can be found in Tableau via this link: 
 https://public.tableau.com/app/profile/anton.grz/viz/6_7ASIASUPPLYCHAINANDMARKETINGPROJECT/ASIASUPPLYCHAINPROJECT
 
-The presentation does not contain every step we took in part of the analysis. Only relevant final results.
+The presentation does not contain every step I took in part of the analysis. Only relevant final results.
 
 ## PROJECT FOLDER STRUCTURE 
 
